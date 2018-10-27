@@ -1,0 +1,193 @@
+# Byte-compiled / optimized / DLL files
+
+img/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+*.mp4
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+lsdcenv/
+lsdcenv_r12
+**/.idea/**
+
+data/
+src/3rdparty
+experiments/lsdc_exp/data_files
+experiments/cem_exp/data_files/
+modeldata/
+modeldata_olddata/
+train/
+test/
+train
+test
+
+old/
+logs/
+
+#gif files
+*.gif
+
+#video files
+
+
+videos/
+videos_distrib/
+compare_graphs/
+verbose/
+
+query_images/
+goalimage_var_ballpos
+
+results*
+
+MUJOCO_LOG.TXT
+goalimage/
+tfrecords/
+desig_pix_img/
+pkl/
+
+lsdcdenv1.1/
+fail/
+
+splitted/
+
+exp/
+multobj_confs/
+longdistance/
+devel/
+cdna_accum_tf_factorized_dependent_mask_lstm_ln_5firstframes_l2/
+
+model/
+python_visual_mpc/region_proposal_networks/rpn_net/model/fasterrcnn_vgg_coco_net.tfmodel
+
+/python_visual_mpc/region_proposal_networks/bvlc_alexnet.npy
+/python_visual_mpc/flow/sparse_tracking/testdata/
+annotation_ckpts/
+test_annotations
+
+test_shuffled/
+preview
+
+auto_gen/
+
+data
+mjkey.txt
+
+.DS_STORE
+
+*.tar
+
+scores_*
+timing_file*
+autogen.json
+
+joblob.log
+
+score.png
+score_histo.txt
+imp_vs_dist.png
+improvement.png
+improvement_histo.txt
+fail_class.txt
+
+
+*log.txt
+logging/
+
+scores.png
+scores.txt
+
+web/
+plots/
+
+record/
+benchmark_schedule.txt
+bench/
+bench30steps/
+
+auto_gen*
